@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 559">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141a2e"/>
+      <stop offset="1" stop-color="#0a0e1a"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6d5bff"/>
+      <stop offset="1" stop-color="#2cc4d6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="559" fill="url(#bg)"/>
+  <rect x="40" y="40" width="944" height="479" rx="24" fill="none" stroke="#5a6488" stroke-width="3" stroke-dasharray="14 12"/>
+  <!-- picture icon -->
+  <g transform="translate(432 150)" fill="none" stroke="url(#g)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="160" height="120" rx="16"/>
+    <circle cx="44" cy="38" r="12"/>
+    <path d="M8 104l46-44 32 30 22-20 44 40"/>
+  </g>
+  <text x="512" y="352" text-anchor="middle" font-family="Sora, Inter, Arial, sans-serif" font-size="40" font-weight="700" fill="#e2e8f0">Image coming soon</text>
+  <text x="512" y="398" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" fill="#8b96b8">D-Tech1 &#183; Daryl-Technology 1</text>
+</svg>
